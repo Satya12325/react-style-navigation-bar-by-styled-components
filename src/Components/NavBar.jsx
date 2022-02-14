@@ -28,6 +28,10 @@ const Rotate = styled.div`
   
   padding: 2rem 1rem;
   font-size: 1.2rem;
+  
+  @media all and (max-width: 620px) {
+    display: none;
+  }
 `;
 
 

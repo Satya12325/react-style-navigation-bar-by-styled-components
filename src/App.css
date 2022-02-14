@@ -5,11 +5,11 @@
   flex-direction: column;
   
 }
-@media screen and (max-width: 750px) {
+/* @media screen and (max-width: 750px) {
   .logo{
     display: none;
   }
-}
+} */
 .link {
   max-width: 1000px;
 }
