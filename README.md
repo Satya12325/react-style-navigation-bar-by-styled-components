@@ -2,8 +2,12 @@
 
 React Styled component 
 
-<img src=""/>
-img src=""/>
+
+<img src="https://github.com/Satya12325/react-style-navigation-bar-by-styled-components/blob/master/Screenshot%20(30).png"/>
+
+# Responsive
+
+<img src="https://github.com/Satya12325/react-style-navigation-bar-by-styled-components/blob/master/Screenshot%20(29).png"/>
 
 
 Create a simple navbar (keep the main wrapper with position relative )
